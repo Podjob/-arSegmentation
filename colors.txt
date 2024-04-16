@@ -1,0 +1,5 @@
+0 background 0 0 0
+1 frame 255 255 255
+2 windows 255 0 0
+3 lights 0 255 0
+4 wheels 0 0 255
